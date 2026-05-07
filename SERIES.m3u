@@ -1,5 +1,8 @@
 #EXTM3U
 
-# CORAJE EL PERRO COBARDE - TEMPORADA 1
-#EXTINF:-1 group-title="Coraje el Perro Cobarde - Temporada 1" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 01 - Una Noche en el Motel Katz
+# CORAJE EL PERRO COBARDE
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 01 - Una Noche en el Motel Katz
 https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x01-Una%20Noche%20en%20el%20Motel%20Katz.mp4
+
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 02 - La Sombra de Coraje
+https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x02-La%20Sombra%20de%20Coraje.mp4
