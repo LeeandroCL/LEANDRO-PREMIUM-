@@ -1,9 +1,6 @@
 #EXTM3U
 #PLAYLIST:Coraje el Perro Cobarde - Temporada 1 (Latino)
 
-# CORAJE EL PERRO COBARDE - TEMPORADA 1
-tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg" group-title="Coraje"
-
 #EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 01 - Una Noche en el Motel Katz
 https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x01-Una%20Noche%20en%20el%20Motel%20Katz.mp4
 
@@ -34,11 +31,16 @@ https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerr
 #EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 10 - El Último Hombre de Nieve
 https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x10-El%20%C3%9Altimo%20Hombre%20de%20Nieve.mp4
 
-#EXTM3U
-#PLAYLIST:Coraje el Perro Cobarde - Temporada 2 (Latino)
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 11 - Cabezas de Carne
+https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x11-Cabezas%20de%20Carne.mp4
 
-# CORAJE EL PERRO COBARDE - TEMPORADA 2
-tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg" group-title="Coraje"
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 12 - La Venganza del Pollo Extraterrestre
+https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x12-La%20venganza%20del%20Pollo%20Extratrerrestre.mp4
+
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 13 - La Pequeña Muriel
+https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x13-La%20Peque%C3%B1a%20Muriel.mp4
+
+
 
 #EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",2x01 - El Árbol Mágico de Ningún Lugar
 https://archive.org/download/Coraje-2/2x01%20-%20El%20%C3%81rbol%20M%C3%A1gico%20de%20Ning%C3%BAn%20Lugar.mp4
@@ -115,11 +117,3 @@ https://archive.org/download/Coraje-2/2x24%20-%20El%20Ataque%20de%20La%20Ballena
 #EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",2x25 - La Torre del Dr. Zalost
 https://archive.org/download/Coraje-2/2x25%20-%20La%20Torre%20del%20Dr.%20Zalost.mp4
 
-#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 11 - Cabezas de Carne
-https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x11-Cabezas%20de%20Carne.mp4
-
-#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 12 - La Venganza del Pollo Extraterrestre
-https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x12-La%20venganza%20del%20Pollo%20Extratrerrestre.mp4
-
-#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",EP 13 - La Pequeña Muriel
-https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x13-La%20Peque%C3%B1a%20Muriel.mp4
