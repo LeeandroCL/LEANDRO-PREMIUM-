@@ -41,7 +41,6 @@ https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerr
 https://ia600902.us.archive.org/12/items/01x-12-la-venganza-del-pollo-extratrerrestre_202605/01x13-La%20Peque%C3%B1a%20Muriel.mp4
 
 
-
 #EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",2x01 - El Árbol Mágico de Ningún Lugar
 https://archive.org/download/Coraje-2/2x01%20-%20El%20%C3%81rbol%20M%C3%A1gico%20de%20Ning%C3%BAn%20Lugar.mp4
 
@@ -117,88 +116,82 @@ https://archive.org/download/Coraje-2/2x24%20-%20El%20Ataque%20de%20La%20Ballena
 #EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",2x25 - La Torre del Dr. Zalost
 https://archive.org/download/Coraje-2/2x25%20-%20La%20Torre%20del%20Dr.%20Zalost.mp4
 
-#EXTM3U
-#PLAYLIST:Coraje el Perro Cobarde - Temporada 3 (Español)
-#EXTIMG:https://ia601907.us.archive.org/18/items/image-1_20260508/image-1.jpg
 
-#EXTINF:-1,03x01 - La Doble de Muriel
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x01 - La Doble de Muriel
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x01-La%20Doble%20de%20Muriel.mp4
 
-#EXTINF:-1,03x02 - El Campamento del Terror
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x02 - El Campamento del Terror
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x02-El%20Campamento%20del%20Terror.mp4
 
-#EXTINF:-1,03x03 - La Tormenta
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x03 - La Tormenta
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x03-La%20Tormenta.mp4
 
-#EXTINF:-1,03x04 - Coraje en el Disco Duro
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x04 - Coraje en el Disco Duro
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x04-Coraje%20en%20el%20Disco%20Duro.mp4
 
-#EXTINF:-1,03x05 - Buceo Increíble
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x05 - Buceo Increíble
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x05-Buceo%20Incre%C3%ADble.mp4
 
-#EXTINF:-1,03x06 - Viaje al Fondo del Mar
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x06 - Viaje al Fondo del Mar
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x06-Viaje%20al%20Fondo%20del%20Mar.mp4
 
-#EXTINF:-1,03x07 - El Nuevo Estanque
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x07 - El Nuevo Estanque
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x07-El%20Nuevo%20Estanque.mp4
 
-#EXTINF:-1,03x08 - Romance en el Louvre
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x08 - Romance en el Louvre
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x08-Romance%20en%20el%20Louvre.mp4
 
-#EXTINF:-1,03x09 - Magia
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x09 - Magia
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x09-Magia.mp4
 
-#EXTINF:-1,03x10 - Juicio Submarino
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x10 - Juicio Submarino
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x10-Juicio%20Submarino.mp4
 
-#EXTINF:-1,03x11 - El Domo
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x11 - El Domo
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x11-El%20Domo.mp4
 
-#EXTINF:-1,03x12 - Club de Acolchados
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x12 - Club de Acolchados
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x12-Club%20de%20Acolchados.mp4
 
-#EXTINF:-1,03x13 - El Rey del Flan
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",03x13 - El Rey del Flan
 https://archive.org/download/03x-08-romance-en-el-louvre_202605/03x13-El%20Rey%20del%20Flan.mp4
 
-#EXTM3U
-#PLAYLIST:Coraje el Perro Cobarde - Temporada 4 (Español)
-#EXTIMG:https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/__ia_thumb.jpg
 
-#EXTINF:-1,04x01 - La Historia de un Castor
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x01 - La Historia de un Castor
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x01-La%20Historia%20de%20un%20Castor.mp4
 
-#EXTINF:-1,04x02 - Viaje a Escocia
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x02 - Viaje a Escocia
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x02-Viaje%20a%20Escocia.mp4
 
-#EXTINF:-1,04x03 - Robo en un Globo
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x03 - Robo en un Globo
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x03-Robo%20en%20un%20Globo.mp4
 
-#EXTINF:-1,04x04 - Un Resfriado Poco Común
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x04 - Un Resfriado Poco Común
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x04-Un%20Resfriado%20Poco%20Com%C3%BAn.mp4
 
-#EXTINF:-1,04x05 - La Novia del Monstruo del Pantano
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x05 - La Novia del Monstruo del Pantano
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x05-La%20Novia%20del%20Monstruo%20del%20Pantano.mp4
 
-#EXTINF:-1,04x06 - Ensalada de Zanahoria
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x06 - Ensalada de Zanahoria
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x06-Ensalada%20de%20Zanahoria.mp4
 
-#EXTINF:-1,04x07 - La Máscara
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x07 - La Máscara
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x07-La%20Mascara.mp4
 
 #EXTINF:-1,04x08 - El Viaje a China
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x08-El%20Viaje%20a%20China.mp4
 
-#EXTINF:-1,04x09 - Granjero Acuático
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x09 - Granjero Acuático
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x09-Granjero%20acuatico.mp4
 
-#EXTINF:-1,04x10 - Los Últimos Creadores de Estrellas
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x10 - Los Últimos Creadores de Estrellas
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x10-Los%20%C3%9Altimos%20Creadores%20de%20Estrellas.mp4
 
-#EXTINF:-1,04x11 - La Cura
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x11 - La Cura
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x11-La%20Cura.mp4
 
-#EXTINF:-1,04x12 - El Cabaret Coraje
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x12 - El Cabaret Coraje
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x12-El%20Cabaret%20Coraje.mp4
 
-#EXTINF:-1,04x13 - La Historia de Coraje
+#EXTINF:-1 group-title="Coraje" tvg-logo="https://ia903103.us.archive.org/24/items/image_20260507_1941/image.jpg",04x13 - La Historia de Coraje
 https://archive.org/download/04x-05-la-novia-del-monstruo-del-pantano_202605/04x13-La%20Historia%20de%20Coraje.mp4
