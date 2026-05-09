@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Canal
-https://b84gdva8.39564828.net:8443/hls/acggafrld8xpk.m3u8?s=BGGuRCPb7b2IbQWjSbFjNQ&e=1778387977
+#EXTINF:-1 group-title="Streams",Canal
+https://plu002.myturn1.top:8088/live/canakl1gl/playlist.m3u8?vidictid=205828510072&id=122443&pk=d41bd8de4182c59eb86edc73130d677a6e3486bc44f5e24d6ddbce82a4e0f889fb4e302144f727fca311983936a56ec4962144ea7c9405fe23d006c0c5a11330
