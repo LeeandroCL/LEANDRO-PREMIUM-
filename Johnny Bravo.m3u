@@ -1,203 +1,198 @@
 #EXTM3U
-tvg-logo="https://ia600709.us.archive.org/30/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7" group-title="Johnny Bravo"
+#EXTGRP:Johnny Bravo
 
-#EXTINF:-1 group-title="Johnny Bravo",1x01 - Johnny Bravo / El Niño de la Selva en "Mr. Monkeyman" / Johnny Bravo y las Amazonas
-https://ia800507.us.archive.org/16/items/e-10-johnny-bravo/E01_Johnny.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E01 - Johnny
+https://archive.org/download/e-10-johnny-bravo/E01_Johnny.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x02 - Súper Engañado / Perdido en la Selva / Apenas Tiempo Suficiente
-https://ia800507.us.archive.org/16/items/e-10-johnny-bravo/E02_Johnny%20Bravo.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E02 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E02_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x03 - El Hombre Sensible / Bravo Dooby Doo
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E03 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E03_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x04 - Cita con un Antílope / ¿Viste Pasar un Toro por Aquí? / Crisis de Galletas
-https://TU-ENLACE-AQUI.mp
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E04 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E04_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x05 - Johnny Bravo y el Gorila Perdido
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E05 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E05_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x06 - El Lobo con Piel de Cordero
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E06 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E06_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x07 - Johnny Bravo y las Amazonas (versión extendida)
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E07 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E07_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x08 - Mi Justo Dork / La Noche Antes de Navidad
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E08 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E08_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x09 - Amigos de Blarney / Sobre la Joroba
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E09 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E09_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x10 - Johnny Conoce a Farrah Fawcett / Blanky Hanky Panky
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E10 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E10_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x11 - Habla Conmigo Bebé / Hip Hop Flop
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E11 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E11_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x12 - Manta de Playa Bravo / El Día que la Tierra No Se Movió Mucho
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E12 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E12_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",1x13 - El Pasillo de los Juguetes Mezclados / Maestro Sustituto
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E13 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E13_Johnny%20Bravo.mp4
 
-#EXTM3U
-#PLAYLIST:Johnny Bravo - Temporada 2 (Latino)
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E14 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E14_Johnny%20Bravo.mp4
 
-# ==================== JOHNNY BRAVO - TEMPORADA 2 ====================
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Johnny_Bravo_logo.svg/800px-Johnny_Bravo_logo.svg.png" group-title="Johnny Bravo"
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E15 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E15_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x01 - El Planeta de los Bikinis Espaciales / Moby Jerk / El Gel de Johnny
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E16 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E16_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x02 - La Vocación de Johnny / Johnny Maxo / Forest Chump
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E17 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E17_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x03 - Karma Krisis / La Estrella de Cine / El Príncipe y el Cabeza de Alfiler
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E18 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E18_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x04 - Garras! / Chico de Portada / De Vuelta con Helga
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E19 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E19_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x05 - Verano Sin Fin / Johnny Preso / ¡Salve al Campeón!
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E20 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E20_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x06 - Un Tonto para la Hermana Sarah / Días de Torpeza
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E21 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E21_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x07 - Johnny y el Fantasma / Johnny y el Niño Grande / Johnny y el Monstruo del Lago
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E22 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E22_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x08 - Johnny Bravo y el Ángel Guardián
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E23 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E23_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x09 - Johnny y el Regreso a Casa
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E24 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E24_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x10 - Johnny y el Insoportable
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E25 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E25_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x11 - Johnny y el Barco que No Se Hundía
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E26 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E26_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x12 - Johnny y el Look Quién Babea
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E27 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E27_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x13 - Johnny y el Festival de Verano
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E28 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E28_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x14 - Johnny y el Gran Escape
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E29 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E29_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x15 - Johnny y el Amor en el Aire
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E30 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E30_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x16 - Johnny y el Día de la Madre
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E31 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E31_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x17 - Johnny y el Gran Premio
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E32 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E32_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x18 - Johnny y el Hipnotizador
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E33 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E33_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x19 - Johnny y el Robot
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E34 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E34_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x20 - Johnny y el Concurso de Baile
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E35 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E35_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x21 - Johnny y el Circo
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E36 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E36_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",2x22 - Johnny y el Fin del Mundo
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E37 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E37_Johnny%20Bravo.mp4
 
-#EXTM3U
-#PLAYLIST:Johnny Bravo - Temporada 3 (Latino)
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E38 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E38_Johnny%20Bravo.mp4
 
-# ==================== JOHNNY BRAVO - TEMPORADA 3 ====================
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Johnny_Bravo_logo.svg/800px-Johnny_Bravo_logo.svg.png" group-title="Johnny Bravo"
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E39 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E39_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x01 - La Guía de Amor de Luke Perry / Johnny Guardaespaldas / Johnny Fugitivo
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E40 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E40_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x02 - Johnny Virtual / Cacería / Agarra a Ese Tonto
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E41 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E41_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x03 - Johnny Candidato / Johnny B. Badd / Air Bravo
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E42 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E42_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x04 - Scoop Bravo / El Increíble Johnny Encogido / Backdaft
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E43 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E43_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x05 - El Asunto Johnny Bravo / Biosfera Johnny / Spa Spaz
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E44 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E44_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x06 - Johnny y el Genio / Johnny en Hielo / 20.000 Leguas de Viaje Submarino
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E45 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E45_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x07 - Mamá Robot / El Genio Johnny / Johnny sobre Hielo
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E46 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E46_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x08 - El Proyecto Hansel y Gretel / Johnny el Leñador
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E47 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E47_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x09 - Johnny el Detective / Johnny en el Carnaval Maldito
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E48 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E48_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x10 - Johnny Metal Pesado / Johnny Sueña con Johnny
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E49 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E49_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x11 - Johnny IQ / Johnny y el Hombre Invisible
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E50 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E50_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x12 - Johnny en el Campo de Golf / Johnny y el Bootman
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E51 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E51_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",3x13 - Johnny y el Gran Escape / Johnny en el Fin del Mundo
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E52 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E52_Johnny%20Bravo.mp4
 
-#EXTM3U
-#PLAYLIST:Johnny Bravo - Temporada 4 (Latino)
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E53 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E53_Johnny%20Bravo.mp4
 
-# ==================== JOHNNY BRAVO - TEMPORADA 4 ====================
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Johnny_Bravo_logo.svg/800px-Johnny_Bravo_logo.svg.png" group-title="Johnny Bravo"
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E54 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E54_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x01 - Johnny Bravo Va a Hollywood
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E55 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E55_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x02 - Problemas de Tránsito / Mi Amigo de Aspecto Divertido
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E56 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E56_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x03 - Gana un El Toro Guapo / Mujer Bruja
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E57 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E57_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x04 - Solo en Casa
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E58 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E58_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x05 - Mini JB / De Vuelta del Futuro
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E59 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E59_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x06 - Eso es Entretenimiento / Non Oui Oui Pour Johnny
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E60 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E60_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x07 - Johnny el Transformado
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E61 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E61_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x08 - Jenny Brava
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E62 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E62_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x09 - La Cita de Adam West
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E63 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E63_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x10 - El Momento de Mi Vida
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E64 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E64_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x11 - Johnny y el Bebé
-https://TU-ENLACE-AQUI.mp4
+#EXTINF:-1 tvg-logo="https://dn721802.ca.archive.org/0/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7b21b821be05b2e6e2f865410c775.jpg" group-title="Johnny Bravo",E65 - Johnny Bravo
+https://archive.org/download/e-10-johnny-bravo/E65_Johnny%20Bravo.mp4
 
-#EXTINF:-1 group-title="Johnny Bravo",4x12 - Johnny el Detective / Otros episodios
-https://TU-ENLACE-AQUI.mp4
-
-#EXTINF:-1 group-title="Johnny Bravo",4x13 - El Final de Johnny Bravo
-https://TU-ENLACE-AQUI.mp4
