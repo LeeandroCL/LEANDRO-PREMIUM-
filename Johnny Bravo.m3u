@@ -1,9 +1,5 @@
 #EXTM3U
-#PLAYLIST:Johnny Bravo - Temporada 1 (Latino)
-
-# ==================== JOHNNY BRAVO - TEMPORADA 1 ====================
 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Johnny_Bravo_logo.svg/800px-Johnny_Bravo_logo.svg.png" group-title="Johnny Bravo"
-
 #EXTINF:-1 group-title="Johnny Bravo",1x01 - Johnny Bravo / El Niño de la Selva en "Mr. Monkeyman" / Johnny Bravo y las Amazonas
 https://TU-ENLACE-AQUI.mp4
 
