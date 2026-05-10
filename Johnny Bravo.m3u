@@ -1,16 +1,17 @@
 #EXTM3U
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Johnny_Bravo_logo.svg/800px-Johnny_Bravo_logo.svg.png" group-title="Johnny Bravo"
+tvg-logo="https://ia600709.us.archive.org/30/items/82f-7b-21b-821be-05b-2e-6e-2f-865410c-775/82f7" group-title="Johnny Bravo"
+
 #EXTINF:-1 group-title="Johnny Bravo",1x01 - Johnny Bravo / El Niño de la Selva en "Mr. Monkeyman" / Johnny Bravo y las Amazonas
-https://TU-ENLACE-AQUI.mp4
+https://ia800507.us.archive.org/16/items/e-10-johnny-bravo/E01_Johnny.mp4
 
 #EXTINF:-1 group-title="Johnny Bravo",1x02 - Súper Engañado / Perdido en la Selva / Apenas Tiempo Suficiente
-https://TU-ENLACE-AQUI.mp4
+https://ia800507.us.archive.org/16/items/e-10-johnny-bravo/E02_Johnny%20Bravo.mp4
 
 #EXTINF:-1 group-title="Johnny Bravo",1x03 - El Hombre Sensible / Bravo Dooby Doo
 https://TU-ENLACE-AQUI.mp4
 
 #EXTINF:-1 group-title="Johnny Bravo",1x04 - Cita con un Antílope / ¿Viste Pasar un Toro por Aquí? / Crisis de Galletas
-https://TU-ENLACE-AQUI.mp4
+https://TU-ENLACE-AQUI.mp
 
 #EXTINF:-1 group-title="Johnny Bravo",1x05 - Johnny Bravo y el Gorila Perdido
 https://TU-ENLACE-AQUI.mp4
