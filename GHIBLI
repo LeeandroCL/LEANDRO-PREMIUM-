@@ -1,3 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://archive.org/download/file_000000006d1471fbadd63113ccfb68f0/file_000000006d1471fbadd63113ccfb68f0.png",El Castillo En El Cielo
+
+#EXTINF:-1 tvg-logo="https://ia600403.us.archive.org/2/items/file_000000006d1471fbadd63113ccfb68f0_202605/file_00000000a610720ea9e6010d5094854c.png",Nausicaä del Valle del Viento (1984)
+https://archive.org/download/nausicaa_202605/Nausica%C3%A4.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/file_000000006d1471fbadd63113ccfb68f0_202605/file_000000006d1471fbadd63113ccfb68f0.png",El castillo en el cielo (1986)
 https://archive.org/download/el-castillo-sky/El%20castillo%20en%20el%20cielo%20%28Hayao%20Miyazaki%29.mkv
+
+#EXTINF:-1 tvg-logo="https://ia600403.us.archive.org/2/items/file_000000006d1471fbadd63113ccfb68f0_202605/file_0000000095c871fba7d1fea4226c48fb.png",Mi vecino Totoro (1988)
+https://archive.org/download/totoro_202605/Totoro.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/file_000000000248720ebf0f4c0e5c4779e0/file_000000000248720ebf0f4c0e5c4779e0.png",La tumba de las luciérnagas (1988)
+https://archive.org/download/1-5037690123571954587/1_5037690123571954587.mp4
+
+#EXTINF:-1 tvg-logo="https://ia800403.us.archive.org/2/items/file_000000006d1471fbadd63113ccfb68f0_202605/file_00000000dc4471fb8daf8e3bf927c86d.png",Kiki: Entregas a domicilio (1989)
+https://archive.org/download/kiki_20260511/Kiki.mkv
+
+#EXTINF:-1 tvg-logo="https://ia800403.us.archive.org/2/items/file_000000006d1471fbadd63113ccfb68f0_202605/file_00000000827871f59bae52992d91ec18.png",Recuerdos del ayer (1991)
+https://archive.org/download/rda-1080p-lat-cast-jap_202605/RDA%20%5B1080p%5D%5BLat%2BCast%2BJap%5D.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/file_000000006d1471fbadd63113ccfb68f0_202605/kte3R8k5h1rLfbpTW1fP4ZGbxHn.jpg",Porco Rosso (1992)
+https://archive.org/download/porco_202605/Porco.mkv
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",Puedo escuchar el mar (1993)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",Pompoko (1994)
+https://archive.org/download/pp-1080p-lat-jap/PP%20%5B1080p%5D%5BLat%2BJap%5D.mkv
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",Susurros del corazón (1995)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",La princesa Mononoke (1997)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",Mis vecinos los Yamada (1999)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",El viaje de Chihiro (2001)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",Harú en el reino de los gatos (2002)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",El castillo ambulante (2004)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",Cuentos de Terramar (2006)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",Ponyo en el acantilado (2008)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",Arrietty (2010)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",La colina de las amapolas (2011)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",Se levanta el viento (2013)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",El cuento de la princesa Kaguya (2013)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",El recuerdo de Marnie (2014)
+URL_AQUI
+
+#EXTINF:-1 tvg-logo="PORTADA_URL",El chico y la garza (2023)
+URL_AQUI
