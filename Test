@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TEST VIDEO DRIVE
-https://drive.google.com/uc?export=download&id=1kyqblm5N93SDjRpC7Blag_yBW4vW6od8
+
+#EXTINF:-1 tvg-name="Coraje El Perro Cobarde" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Courage_the_Cowardly_Dog.png" group-title="Cartoons",Coraje El Perro Cobarde
+https://t9lr3d.cfglobalcdn.com/silverlight/secip/71010/22047/VQSuqxWhXJXWb1rv7CXE1Q/MTkwLjE2My4xMTguMTE1/1778656424/hls-vod-s0012/flv/api/files/videos/2020/10/28/1603852741ifce8.mp4.m3u8
