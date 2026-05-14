@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/file_000000004c7c720e97fd236ee4be94ed/file_000000004c7c720e97fd236ee4be94ed.png" group-title="",Ed, Edd y Eddy - 01 - Los Ed-Tocables
-ruta/a/tu/archivo/01.mkv
+https://drive.google.com/uc?export=download&id=1Ckxzqni_SHHUwrqfucV0xZFnMYDoH19x
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/file_000000004c7c720e97fd236ee4be94ed/file_000000004c7c720e97fd236ee4be94ed.png" group-title="",Ed, Edd y Eddy - 02 - Atadas a Ed, Doble D y Eddy
 ruta/a/tu/archivo/02.mkv
